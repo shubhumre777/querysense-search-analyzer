@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (large datasets)
+data/raw/
+data/processed/
+
+# Trained models
+models/*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
