@@ -18,8 +18,6 @@ QuerySense is a Machine Learning and NLP based system that analyzes search queri
 
 
 
-This project is designed as a GSoC-ready open-source project aligned with search engine quality analysis.
-
 
 
 \## Tech Stack
